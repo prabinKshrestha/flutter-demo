@@ -1,0 +1,37 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "aim",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "business",
+            "cwd": "at-packages\\business",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "common",
+            "cwd": "at-packages\\common",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "datas",
+            "cwd": "at-packages\\datas",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "models",
+            "cwd": "at-packages\\models",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
